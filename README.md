@@ -25,15 +25,16 @@ Here are some key projects you can find on this site:
 - HTML
 - CSS
 - JavaScript
-- (Will be Added)
+- Python
+- (To be added)
 
 ## Contact
 
 Feel free to reach out to me via:
 
 - [Email](mailto:.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/md-keum-uddin-pathan-ba074965/)
+- [Twitter](https://x.com/md_keum))
 
 ## Getting Started
 
@@ -42,7 +43,7 @@ If you're interested in building your own GitHub Pages site, here's how you can 
 1. Create a new repository named `username.github.io`.
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/mdkeum/mdkeum.github.io.git
+   git clone https://github.com/username/username.github.io.git
 3.Add your HTML, CSS, and other files.
 4.Commit your changes and push to GitHub 
    git add .
