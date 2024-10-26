@@ -32,7 +32,7 @@ Here are some key projects you can find on this site:
 
 Feel free to reach out to me via:
 
-- [Email](mailto:.com)
+- [Email](mailto:user@example.com)
 - [LinkedIn](https://www.linkedin.com/in/md-keum-uddin-pathan-ba074965/)
 - [Twitter](https://x.com/md_keum)
 
@@ -53,8 +53,8 @@ If you're interested in building your own GitHub Pages site, here's how you can 
    git commit -m "Initial commit"
    git push origin main
    
-##License
+## License
 This site is open-source and available under the MIT License.
 
-Thank you for visiting my personal website! I hope you find it informative and engaging. Feel free to explore and reach out!
+## Thank you for visiting my personal website! I hope you find it informative and engaging. Feel free to explore and reach out!
 
