@@ -52,7 +52,6 @@ If you're interested in building your own GitHub Pages site, here's how you can 
    git add .
    git commit -m "Initial commit"
    git push origin main
-   
 ## License
 This site is open-source and available under the MIT License.
 
