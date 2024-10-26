@@ -34,7 +34,7 @@ Feel free to reach out to me via:
 
 - [Email](mailto:.com)
 - [LinkedIn](https://www.linkedin.com/in/md-keum-uddin-pathan-ba074965/)
-- [Twitter](https://x.com/md_keum))
+- [Twitter](https://x.com/md_keum)
 
 ## Getting Started
 
@@ -44,8 +44,8 @@ If you're interested in building your own GitHub Pages site, here's how you can 
 2. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/username/username.github.io.git
-3.Add your HTML, CSS, and other files.
-4.Commit your changes and push to GitHub 
+3. Add your HTML, CSS, and other files.
+4. Commit your changes and push to GitHub 
    git add .
    git commit -m "Initial commit"
    git push origin main
