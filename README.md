@@ -41,9 +41,11 @@ Feel free to reach out to me via:
 If you're interested in building your own GitHub Pages site, here's how you can set it up:
 
 1. Create a new repository named `username.github.io`.
-2. Clone the repository to your local machine:
-   ```bash
+2. Clone the repository to your local machine: 
+   ```
    git clone https://github.com/username/username.github.io.git
+   ```
+   N.B: Use your GitHub username in place of username.
 3. Add your HTML, CSS, and other files.
 4. Commit your changes and push to GitHub
    ```
