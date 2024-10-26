@@ -45,12 +45,13 @@ If you're interested in building your own GitHub Pages site, here's how you can 
    ```bash
    git clone https://github.com/username/username.github.io.git
 3. Add your HTML, CSS, and other files.
-4. Commit your changes and push to GitHub 
+4. Commit your changes and push to GitHub
+   ```
    git add .
    git commit -m "Initial commit"
    git push origin main
    
-License
+##License
 This site is open-source and available under the MIT License.
 
 Thank you for visiting my personal website! I hope you find it informative and engaging. Feel free to explore and reach out!
