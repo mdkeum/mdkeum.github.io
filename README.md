@@ -56,5 +56,10 @@ If you're interested in building your own GitHub Pages site, here's how you can 
 ## License
 This site is open-source and available under the MIT License.
 
-## Thank you for visiting my personal website! I hope you find it informative and engaging. Feel free to explore and reach out!
+<h1>Thank You!</h1>
+    <p>I want to extend my heartfelt thanks to everyone who has supported my journey on GitHub. Your encouragement and collaboration have made a significant impact on my projects.</p>
+    <p>Each contribution, no matter how small, has helped me grow and learn. I'm grateful for the shared knowledge and the community we've built together.</p>
+    <p>Let’s continue to inspire each other!</p>
+
+Once again Thank you! for visiting my personal website! I hope you find it informative and engaging. Feel free to explore and reach out!
 
